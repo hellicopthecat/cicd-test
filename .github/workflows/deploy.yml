@@ -21,4 +21,4 @@ jobs:
       - name: test-2
         run: |
           ls -al
-          cat test.tsx
+          cat test.txt
